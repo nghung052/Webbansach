@@ -1,0 +1,41 @@
+body{font:14px arial,sans-serif}
+ul{
+	list-style:none;
+	margin:0;
+	max-width:300px;
+	padding:0;
+	width:100%;
+	}
+ul>li{
+	position:relative;
+}
+ul>li p{
+	margin:0
+}
+ul>li p a{
+	background:#0abab5;
+	color:#fff;
+	display:block;
+	padding:15px;
+	text-decoration:none;
+}
+ul>li a[href="#foo"]{
+	height:0;
+	position:absolute;
+	top:0;
+	width:100%;
+}
+ul>li a[href="#foo"]::before{
+	border:solid #98e9e7;
+	border-width:0 2px 2px 0;
+	content:"";
+	display:inline-block;
+	padding:4px;
+	position:absolute;
+	right:10px;
+	top:12px;
+	transition:transform .2s ease;
+	transform:rotate(-45deg);
+	z-index:1;
+}
+ul>li ul{max-height:0;overflow:hidden;transition:max-height .6s ease-out}ul>li ul li a{background:#efefef;border-bottom:1px solid #e1e1e1;display:block;text-decoration:none;padding:10px}ul>li ul li a:hover{background:#e1e1e1}ul:target{max-height:800px;transition:max-height 2s ease-out}:target+a[href="#foo"]{height:45px}:target+a[href="#foo"]::before{transform:rotate(45deg)}

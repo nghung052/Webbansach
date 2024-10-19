@@ -1,0 +1,69 @@
+{
+
+    "book": "Admin's Book Store",
+    "dashboard": "Dash Board",
+    "companies": "Publisher",
+    "listbook": "Book",
+    "listtype": "Book Type",
+    "banner": "Banner",
+    "news": "News",
+    "bills": "Bills",
+    "store": "Store",
+    "acc": "Account",
+    "exit": "Exit",
+    "chart": "Chart",
+    "infor": "Statistical product, store, data's sold by Publisher",
+    "prod": "Product",
+    "sold": "Sold product",
+    "user": "User",
+
+    "catelory": "Catelory",
+    "hompage": "Home",
+    "introduce": "Intro",
+    "newws": "News",
+    "all": "All",
+    "company": "Company",
+    "Information": "Information",
+    "logout": "Logout",
+    "login": "Login",
+    "signup": "Signup",
+    "About":"About",
+
+
+    "free ship": "All Free Ship",
+    "phone": "Phone",
+
+    "Request To Choose": "Request To Choose",
+    "New Product": "New Product",
+    "A To Z": "A To Z",
+    "Price Low To High": "Price Low To High",
+    "Price High To Low": "Price High To Low",
+    "Discounts High To Low": "Discounts High To Low",
+    "Discount From Low To High": "Discount From Low To High",
+
+
+    "newbook": "New Book",
+    "salebook": "Sale Book",
+    "hotbook": "Hot Book",
+
+    "Buy now": "Buy now",
+    "detail": "Detail",
+    "addcart": "Add To Cart",
+    "read online": "Read Online",
+
+    "new book": "new book",
+    "sale book": "sale book",
+    "hot book": "hot book",
+
+
+
+
+    "sss": "Nghe thuat"
+
+
+
+
+
+
+
+}

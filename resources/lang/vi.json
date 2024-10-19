@@ -1,0 +1,61 @@
+{
+
+    "book": "Hệ thống quản lý trang bán sách",
+    "dashboard": "Tổng quan",
+    "companies": "Nhà xuất bản",
+    "listbook": "Sách",
+    "listtype": "Loại Sách",
+    "banner": "Bìa",
+    "news": "Tin tức",
+    "bills": "Đơn hàng",
+    "store": "Kho hàng",
+    "acc": "Tài khoản",
+    "exit": "Thoát",
+    "chart": "Thống kê",
+    "infor": "Danh sách các sản phẩm, kho, doanh thu bán hàng được thống kê theo nhà xuất bản",
+    "prod": "Sản phẩm",
+    "sold": "Sản phẩm bán ra",
+    "user": "Thành viên",
+
+    "catelory": "Danh mục sách",
+    "hompage": "Trang chủ",
+    "introduce": "Giới thiệu",
+    "newws": "Tin tức",
+    "all": "Tất cả sách",
+    "company": "Danh Mục NXB",
+    "Information": "Thông Tin",
+    "logout": "Đăng Xuất",
+    "login": "Đăng nhập",
+    "signup": "Đăng kí",
+    "About":"Giới Thiệu",
+
+
+
+    "free ship": "Miễn phí vận chuyển",
+    "phone": "Số điện thoại",
+
+    "Request To Choose": "Yêu Cầu Lựa Chọn",
+    "New Product": "sản phẩm mới",
+    "A To Z": "A đến Z",
+    "Price Low To High": "Giá Thấp Đến Cao",
+    "Price High To Low": "Giá Cao Đến Thấp",
+    "Discounts High To Low": "Giảm Giá Cao Đến Thấp",
+    "Discount From Low To High": "Giảm Giá Thấp Đến Cao",
+
+
+
+    "newbook": "Sách Mới Nhất",
+    "salebook": "Sách Khuyến Mãi",
+    "hotbook": "Sách Nổi Bật",
+
+
+
+    "Buy now": "Mua ngay",
+    "detail": "Chi tiết",
+    "addcart": "Thêm vào giỏ hàng",
+    "read online": "Đọc Online",
+    "sss": " $type_name->name "
+
+
+
+}

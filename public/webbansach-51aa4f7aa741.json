@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "webbansach",
+  "private_key_id": "51aa4f7aa7411c8062bf11636fc71fdd55e12518",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwiGOTMQ52Dk1D\nMHprTvMJsiSUNLrb173mSNoRTltk3LtPNYXPJz9ejTOHCF19upYIoT/jJ9hs+reP\nu/ooycyuRIq/xTTV1GPyt6E+m8V2EjItrbhW9x65G8rr31I2XwFoRH6Bls3scJwU\nyXYQfTVdRvg6Qzw8qPlvcW/Xtb58cY+7bJZoYJjcoyf63VT7g7xAua4TF8NY4hZz\nfsA9QGa6EUMDlkGCwe3Mggy9N7ksE7d3SyQ+WhRHhwZ9MAku4CTQy/EzYvMzDgLn\n90MNWngnsmyXQ4Ph5LAAksdCEJA92J/8dIbelEjBsCv2AQ+8+C9h39ClX1C7jDke\nUlKN6dRHAgMBAAECggEAAclM3KXv7rDkBkHc00N9a8Pc4TphXlfMs6JZa+MTmK3a\ndV7mHOZZmqQqI9EpWlwuKCXdkXe16xsPCsoiVLxUsQ9qKgOdrmuTnAFQr+NVTbBk\ncpg3QntbWRCCGVNCr+B+kVFeyFfq0IbZMCVTvQSkqsN3lTtYm4fdh6D/D+XmaLhH\nJnuVI/KBOQ8Y/CJQeU4oLePNzI0GAAPNiOa5WBtQyGI/Z5l/sWgEPQfy0LoyN5oC\nWTkGyxVVnwEzzWn3L6iYt93Jn5AabG5pe1s2YgHBCKYEkxpBUKNdUdJVvfRT7CTn\nak2Y/ooLY6c3jxjAd2rpCOfAl4p9ODyZxbI4VxX6bQKBgQDh0cSEDLN1hyR2EDSb\n68Uk7t/mph9yYdFhcpd+oQc0+K/WtXIEnaj6PJXRDYnKEf5igDoFOorkefVFhs6m\n5ntIjT/FXjVqG1HGXzAyV8zW7Nwbcdk1bFVdCvH+nAp133bWSAFYnA02+b04hHHf\ndtsX+quxCXhdA5Ng7agNgcu+IwKBgQDIIFFs7yWTtRsVSx1TXJPgdCY0JfH9028S\nR2HKElmpzAyDuAOy3Nh+UgWkO0m3l5VRqJ9+lBHTed6lxFnRWKBrn2ttYuQRJ15W\nOusRArSqyhjy+TdydxlYSsBp1OYstzwxFIBRySvuMLbXh1BvUuZsNQm515OIs7sT\npvw41W+pjQKBgQCUTxKDr1vFmoZFzArhRI1r3j7K2tvYYYoEOCBrGBMFpTbHCs/h\nXDJ4doXmkL+oKP0rcA+rE3HY8Ig3q3vZfZIGak4xr9fg4iRo5mdfCO8NUO6WT8Va\nItZFj0Sz9YOhOqxvu0a3DXZYXtj5X3LyUrs+GnHcid21KP4IMM2oYVCQhQKBgFQX\nUF+ntXB1fyXZZD8s/W4pIAx1jVOMznUtzWdtgoOYnAGVBujXZ5jcukYiK32bkkC3\nzB0R9tOXt/iLovoWdYIDgM576T1T/43YQAHr0yKYvRcLpULRzLKO5n8R2I4diItP\nBARZtb3mdk3mK+Q7P1tkheuzK+kbLJa7aewvszXZAoGAUgfHYcZg3V5nIRSw9K7u\n3ORAAx/r7dyO65FR5wD1UMZaChYNFNyXNiW1XU2DBOsxIp5oKI9ZxL0IysdUrmLu\nTGx9QgsDR/kpXXRib1MD+qyx+9YQIQY2l6zq8Rme9+nuPyErXdxi+6LxZuvpqpxS\nR5dojMBXYo+qNrL9Xt7vBjE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-bansach@webbansach.iam.gserviceaccount.com",
+  "client_id": "108484021146245614169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-bansach%40webbansach.iam.gserviceaccount.com"
+}
